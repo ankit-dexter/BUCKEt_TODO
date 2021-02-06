@@ -1,0 +1,23 @@
+.toDoList {
+  margin: 20px;
+
+  border: 5px solid linear-gradient(rgb(80, 75, 69), rgb(61, 56, 51));
+
+  /* align-items: flex;
+    flex-direction: row; */
+  justify-content: left;
+  color: white;
+  text-align: center;
+  height: 560px;
+  background-image: linear-gradient(rgb(122, 116, 110), rgb(99, 93, 87));
+  box-shadow: 0px 0px 3px 3px rgb(37, 37, 37);
+  border-bottom: 4px solid rgb(159, 161, 161);
+  color: white;
+  min-width: 56%;
+  height: 100%;
+  padding: 30px;
+}
+.formS {
+  display: flex;
+  flex-direction: column;
+}
